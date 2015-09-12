@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CurveDNS &#187; Releases</title>
+	<atom:link href="http://curvedns.on2it.net/category/release/feed" rel="self" type="application/rss+xml" />
+	<link>http://curvedns.on2it.net</link>
+	<description>A DNSCurve Forwarding Name Server</description>
+	<lastBuildDate>Mon, 07 Mar 2011 12:22:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>CurveDNS Second Public Release: curvedns-0.87</title>
+		<link>http://curvedns.on2it.net/180/curvedns-0-87</link>
+		<comments>http://curvedns.on2it.net/180/curvedns-0-87#comments</comments>
+		<pubDate>Tue, 28 Dec 2010 08:49:36 +0000</pubDate>
+		<dc:creator><![CDATA[Harm van Tilborg]]></dc:creator>
+				<category><![CDATA[Releases]]></category>
+		<category><![CDATA[0.87]]></category>
+
+		<guid isPermaLink="false">http://curvedns.on2it.net/?p=180</guid>
+		<description><![CDATA[See it as a belated Christmas gift or an early New Year present, whatever you prefer, but we have just released CurveDNS 0.87. It includes some small bug fixes and a few new minor features. The ChangeLog can be found here, while you can download the new release at the download page. Harm&#8217;s thesis is [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://curvedns.on2it.net/wp-content/uploads/2010/12/oliebollen-150x150.jpg" alt="" title="oliebollen" width="150" height="150" class="alignleft size-thumbnail wp-image-181" /> See it as a belated Christmas gift or an early New Year present, whatever you prefer, but we have just released CurveDNS 0.87. It includes some small bug fixes and a few new minor features. The ChangeLog can be found <a href="releases/ChangeLog">here</a>, while you can download the new release at the <a href="download">download</a> page. Harm&#8217;s thesis is also still available at this page. The <a href="docs">documentation</a> page has also been updated to introduce the new features.</p>
+<p>Finally we would like to wish you all a wonderful and healthy 2011! (Ow, the picture shows some delicious &#8216;<a href="http://en.wikipedia.org/wiki/Oliebollen" target="_blank">oliebollen</a>&#8216;, whenever you hit Holland don&#8217;t leave without trying ;).)</p>
+]]></content:encoded>
+			<wfw:commentRss>http://curvedns.on2it.net/180/curvedns-0-87/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CurveDNS First Public Release: curvedns-0.86</title>
+		<link>http://curvedns.on2it.net/109/curvedns-release</link>
+		<comments>http://curvedns.on2it.net/109/curvedns-release#comments</comments>
+		<pubDate>Sat, 23 Oct 2010 18:00:48 +0000</pubDate>
+		<dc:creator><![CDATA[Harm van Tilborg]]></dc:creator>
+				<category><![CDATA[Releases]]></category>
+		<category><![CDATA[0.86]]></category>
+
+		<guid isPermaLink="false">http://curvedns.on2it.net/?p=109</guid>
+		<description><![CDATA[Today we announce the first formal CurveDNS release: 0.86. Download away, and in case of trouble don&#8217;t forget to report back to us. More information about installation et cetera can be found on the documentation page. This entire project is based on a master thesis named &#8216;Shaping DNS Security with Curves &#8212; A Comparative Security [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://curvedns.on2it.net/wp-content/uploads/2010/10/celebration-150x150.jpg" alt="" title="celebration" width="150" height="150" class="alignright size-thumbnail wp-image-130" /><br />
+Today we announce the first formal CurveDNS release: 0.86. <a href="download/">Download</a> away, and in case of trouble don&#8217;t forget to <a href="contact/">report back</a> to us. More information about installation et cetera can be found on the <a href="docs/">documentation</a> page.</p>
+<p>This entire project is based on a master thesis named &#8216;Shaping DNS Security with Curves &#8212; A Comparative Security Analysis of DNSSEC and DNSCurve&#8217;, you can find this thesis at the <a href="download/">download</a> page too.</p>
+<p>We believe this is the first forwarding DNSCurve solution out there and we hope this sets a new way into the adoption of DNSCurve.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://curvedns.on2it.net/109/curvedns-release/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
